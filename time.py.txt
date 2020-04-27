@@ -4,3 +4,13 @@ print(start_time)
 for i in range(10000):
     print("hello")
 print("----%s seconds ----" % (time.time()-start_time))
+
+
+
+
+
+#localtime2 = time.localtime()
+        #result2 = time.strftime("%I:%M:%S %p", localtime)
+        #print(result2)
+        #result3=int(result) - int(result2)
+        #print(result3)
